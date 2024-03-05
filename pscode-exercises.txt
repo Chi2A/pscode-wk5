@@ -9,9 +9,21 @@ ask for 2 numbers
 add the 2 number together 
 print on the screen the sum of those 2 numbers
 
+Solution: 
+
+// ask to input num1
+// ask to input num2
+// sum num1 and num2 and save it ton sum variable
+// print  sum variable 
 
 // Exercise 2: Check if a Number is Even or Odd
 
+ Solution:
+// ask to input num
+// IF num MOD(%)  2 === 0
+     // print even number
+// IF num MOD 2 === 1 
+     // print odd number
 (Your pseudocode here)
 
 // Exercise 3: 
@@ -22,6 +34,32 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+Solution:
+ask to input num1
+ask to input num2
+ask to input num3
+ask to input num4
+ask to input num5
 
+B. Add num1+num2+num3+num4+num5 and save it to sum.
+Divide sum by 5 and save it to avrNumber.
+
+C.
+Create variable min.
+// IF num1 is bigger or equal than 0 assign value to min.
+// IF num2 is less that min then assign to min.
+// IF num3 is less that min then assign to min.
+// IF num4 is less that min then assign to min.
+// IF num5 is less that min then assign to min.
+C2:
+Create variable max.
+// IF num1 is bigger or equal than 0 assign value to max.
+// IF num2 is bigger that max then assign to max.
+// IF num3 is bigger that max then assign to max.
+// IF num4 is bigger that max then assign to max.
+// IF num5 is bigger that max then assign to max.
+
+// print “sum is “ + avrNumber
+// print “min is “ + min
+// print “max is “ + max
 -- END --
